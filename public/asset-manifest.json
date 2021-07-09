@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.aa514ddf.chunk.css",
-    "main.js": "/static/js/main.3f0ba344.chunk.js",
-    "main.js.map": "/static/js/main.3f0ba344.chunk.js.map",
+    "main.js": "/static/js/main.d8d2c501.chunk.js",
+    "main.js.map": "/static/js/main.d8d2c501.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7576e2d5.js",
     "runtime-main.js.map": "/static/js/runtime-main.7576e2d5.js.map",
     "static/js/2.1fac3a85.chunk.js": "/static/js/2.1fac3a85.chunk.js",
@@ -20,14 +20,16 @@
     "static/js/2.1fac3a85.chunk.js.LICENSE.txt": "/static/js/2.1fac3a85.chunk.js.LICENSE.txt",
     "static/js/3.6ffc2238.chunk.js.LICENSE.txt": "/static/js/3.6ffc2238.chunk.js.LICENSE.txt",
     "static/js/4.0d286d87.chunk.js.LICENSE.txt": "/static/js/4.0d286d87.chunk.js.LICENSE.txt",
+    "static/media/accept.80ba68f7.jpg": "/static/media/accept.80ba68f7.jpg",
     "static/media/styles.module.css": "/static/media/petty-trader.0c711fc0.jpg",
-    "static/media/logos.a14c97d3.png": "/static/media/logos.a14c97d3.png"
+    "static/media/logos.a14c97d3.png": "/static/media/logos.a14c97d3.png",
+    "static/media/reject.8d2e134a.jpg": "/static/media/reject.8d2e134a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7576e2d5.js",
     "static/css/3.61b4cb56.chunk.css",
     "static/js/3.6ffc2238.chunk.js",
     "static/css/main.aa514ddf.chunk.css",
-    "static/js/main.3f0ba344.chunk.js"
+    "static/js/main.d8d2c501.chunk.js"
   ]
 }
