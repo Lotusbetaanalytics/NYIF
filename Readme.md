@@ -1,5 +1,5 @@
-# NMFB Lan Calculator 
-## Loan Calculator is a calculator to determine your monthly payment, interest rate, number of months or principal amount on a loan.
+# NYIF Offer LETTER BACKEND
+## 
 ## Installation 
 Use the node package manager
 ```
